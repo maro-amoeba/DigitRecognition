@@ -8,8 +8,8 @@ Androidアプリとして、kotlinで制作。
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0  
 
 学習データはMnist-Digitからで、  
-データの作成にはpythonで行いました。  
-kerasを用いてデータのダウンロード、ネットワークの構築、学習、保存を行い、  
+データの作成はpythonで行いました。  
+kerasでデータのダウンロード、ネットワークの構築、学習、保存を行い、  
 tfliteファイルへの変換を行った後、アプリへ組み込みます。  
 
 コードの構成は  
